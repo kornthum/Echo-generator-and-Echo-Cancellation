@@ -1,6 +1,6 @@
 # Echo-generator-and-Echo-Cancellation
 
-This is my one of project from Digital Signal Processing (DSP) at KMITL.
+This is my one of project from Digital Signal Processing (DSP) course at KMITL.
 
 
 Project Description:
