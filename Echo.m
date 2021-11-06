@@ -35,6 +35,7 @@ y_imp = impz(num1, den1);
 y_ifilter = filter(num1, den1, x(:,1));
 soundsc(y_ifilter, fs);
 %%
+%Part3: Echo Cancellation
 timelag = 0.5; %chose the timelag from investigating an auto-corelation
 delta = fs*timelag; 
 k = 0.8;
